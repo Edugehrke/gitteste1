@@ -1,0 +1,4 @@
+[submodule "Python_and_PostgreSQL_CRUD"]
+	path = Python_and_PostgreSQL_CRUD
+	url = https://github.com/Edugehrke/Python_and_PostgreSQL_CRUD.git
+	branch = master
